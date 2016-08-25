@@ -1,4 +1,4 @@
-update=mar 05 jul 2016 22:25:36 CEST
+update=24/08/2016 22:13:23
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../../kicad-library/def-footprints.pretty
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -56,5 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=C:/Users/Jorge/Documents/GitHub/kicad-library/library/kicad-library
