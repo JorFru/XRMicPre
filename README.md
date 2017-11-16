@@ -1,6 +1,8 @@
 XRMicPre
 ========
 
+### Project on standby state
+
 Mic preamp module for a poor man's digital mixer
 
 History:
