@@ -1,7 +1,7 @@
 XRMicPre
 ========
 
-### Project on standby state
+### Project on standby state. I already have a X32.
 
 Mic preamp module for a poor man's digital mixer
 
